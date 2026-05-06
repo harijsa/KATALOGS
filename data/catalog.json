@@ -1,0 +1,38 @@
+[
+  {
+    "id": "AT-001",
+    "nosaukums": "NVDA",
+    "tips": "Programmatūra",
+    "funkcija": "Piekļuve digitālajam saturam",
+    "merkgrupa": "Izglītojamie ar redzes traucējumiem",
+    "piegadatajs": "NV Access",
+    "apraksts_lv": "Bezmaksas ekrāna lasītājs, kas nolasa datorā redzamo tekstu balsī un palīdz piekļūt digitālajam mācību saturam.",
+    "produkta_saite": "https://www.nvaccess.org/",
+    "viaa_atbilstiba": "Augsta",
+    "vtpc_statuss": "Nepārklājas"
+  },
+  {
+    "id": "AT-002",
+    "nosaukums": "NaturalReader",
+    "tips": "Programmatūra",
+    "funkcija": "Teksta pārvēršana runā",
+    "merkgrupa": "Izglītojamie ar lasīšanas grūtībām vai disleksiju",
+    "piegadatajs": "NaturalReader",
+    "apraksts_lv": "Teksta–runas rīks, kas palīdz skolēniem uztvert mācību materiālu klausoties.",
+    "produkta_saite": "https://www.naturalreaders.com/",
+    "viaa_atbilstiba": "Augsta",
+    "vtpc_statuss": "Nepārklājas"
+  },
+  {
+    "id": "EX-001",
+    "nosaukums": "Elektroniskā video lupa",
+    "tips": "Ierīce",
+    "funkcija": "Redzes pieejamība",
+    "merkgrupa": "Izglītojamie ar vāju redzi",
+    "piegadatajs": "Exceed",
+    "apraksts_lv": "Elektroniska palielināšanas ierīce, kas palīdz lasīt drukātu tekstu un apskatīt mācību materiālus.",
+    "produkta_saite": "https://exceed.lv/index.php/lv/produkti",
+    "viaa_atbilstiba": "Izvērtēt",
+    "vtpc_statuss": "Iespējams pārklājas"
+  }
+]
